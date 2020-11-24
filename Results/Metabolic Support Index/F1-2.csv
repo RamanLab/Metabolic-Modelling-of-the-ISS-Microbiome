@@ -1,0 +1,241 @@
+Organism,In the presence of,MSI,Organism_abundance
+Enterobacter asburiae,Enterobacter cancerogenus,0,3.169178611
+Enterobacter asburiae,Enterobacter cloacae,0,3.169178611
+Enterobacter asburiae,Enterobacter roggenkampii,0,3.169178611
+Enterobacter asburiae,Enterobacter hormaechei,0,3.169178611
+Enterobacter asburiae,Enterobacter sp. NFIX59,0,3.169178611
+Enterobacter asburiae,Escherichia coli,0,3.169178611
+Enterobacter asburiae,Klebsiella oxytoca,0,3.169178611
+Enterobacter asburiae,Klebsiella pneumoniae,0,3.169178611
+Enterobacter asburiae,Klebsiella quasipneumoniae IF2SW-B3,0,3.169178611
+Enterobacter asburiae,Klebsiella quasipneumoniae IF2SW-P1,0,3.169178611
+Enterobacter asburiae,Pantoea ananatis,0,3.169178611
+Enterobacter asburiae,Penicillium rubens,0.003109453,3.169178611
+Enterobacter asburiae,Rhodotorula sp. JG-1b,0,3.169178611
+Enterobacter asburiae,Salmonella enterica,0,3.169178611
+Enterobacter asburiae,Shigella sonnei,0,3.169178611
+Enterobacter cancerogenus,Enterobacter asburiae,0.013414634,1.679941756
+Enterobacter cancerogenus,Enterobacter cloacae,0,1.679941756
+Enterobacter cancerogenus,Enterobacter roggenkampii,0.013414634,1.679941756
+Enterobacter cancerogenus,Enterobacter hormaechei,0,1.679941756
+Enterobacter cancerogenus,Enterobacter sp. NFIX59,0.013414634,1.679941756
+Enterobacter cancerogenus,Escherichia coli,0.013414634,1.679941756
+Enterobacter cancerogenus,Klebsiella oxytoca,0.013414634,1.679941756
+Enterobacter cancerogenus,Klebsiella pneumoniae,0.013414634,1.679941756
+Enterobacter cancerogenus,Klebsiella quasipneumoniae IF2SW-B3,0,1.679941756
+Enterobacter cancerogenus,Klebsiella quasipneumoniae IF2SW-P1,0,1.679941756
+Enterobacter cancerogenus,Pantoea ananatis,0.002439024,1.679941756
+Enterobacter cancerogenus,Penicillium rubens,0.00304878,1.679941756
+Enterobacter cancerogenus,Rhodotorula sp. JG-1b,0,1.679941756
+Enterobacter cancerogenus,Salmonella enterica,0.01097561,1.679941756
+Enterobacter cancerogenus,Shigella sonnei,0.013414634,1.679941756
+Enterobacter cloacae,Enterobacter asburiae,0.012468828,40.45633347
+Enterobacter cloacae,Enterobacter cancerogenus,0.012468828,40.45633347
+Enterobacter cloacae,Enterobacter roggenkampii,0.012468828,40.45633347
+Enterobacter cloacae,Enterobacter hormaechei,0,40.45633347
+Enterobacter cloacae,Enterobacter sp. NFIX59,0.012468828,40.45633347
+Enterobacter cloacae,Escherichia coli,0.012468828,40.45633347
+Enterobacter cloacae,Klebsiella oxytoca,0.012468828,40.45633347
+Enterobacter cloacae,Klebsiella pneumoniae,0.012468828,40.45633347
+Enterobacter cloacae,Klebsiella quasipneumoniae IF2SW-B3,0,40.45633347
+Enterobacter cloacae,Klebsiella quasipneumoniae IF2SW-P1,0,40.45633347
+Enterobacter cloacae,Pantoea ananatis,0,40.45633347
+Enterobacter cloacae,Penicillium rubens,0,40.45633347
+Enterobacter cloacae,Rhodotorula sp. JG-1b,0,40.45633347
+Enterobacter cloacae,Salmonella enterica,0.012468828,40.45633347
+Enterobacter cloacae,Shigella sonnei,0.012468828,40.45633347
+Enterobacter hormaechei,Enterobacter asburiae,0.004683841,2.676388451
+Enterobacter hormaechei,Enterobacter cancerogenus,0.004683841,2.676388451
+Enterobacter hormaechei,Enterobacter cloacae,0,2.676388451
+Enterobacter hormaechei,Enterobacter roggenkampii,0.004683841,2.676388451
+Enterobacter hormaechei,Enterobacter sp. NFIX59,0.004683841,2.676388451
+Enterobacter hormaechei,Escherichia coli,0.004683841,2.676388451
+Enterobacter hormaechei,Klebsiella oxytoca,0.004683841,2.676388451
+Enterobacter hormaechei,Klebsiella pneumoniae,0.004683841,2.676388451
+Enterobacter hormaechei,Klebsiella quasipneumoniae IF2SW-B3,0,2.676388451
+Enterobacter hormaechei,Klebsiella quasipneumoniae IF2SW-P1,0,2.676388451
+Enterobacter hormaechei,Pantoea ananatis,0.00234192,2.676388451
+Enterobacter hormaechei,Penicillium rubens,0,2.676388451
+Enterobacter hormaechei,Rhodotorula sp. JG-1b,0.00234192,2.676388451
+Enterobacter hormaechei,Salmonella enterica,0.004683841,2.676388451
+Enterobacter hormaechei,Shigella sonnei,0.004683841,2.676388451
+Enterobacter roggenkampii,Enterobacter asburiae,0,1.526725852
+Enterobacter roggenkampii,Enterobacter cancerogenus,0,1.526725852
+Enterobacter roggenkampii,Enterobacter cloacae,0,1.526725852
+Enterobacter roggenkampii,Enterobacter hormaechei,0,1.526725852
+Enterobacter roggenkampii,Enterobacter sp. NFIX59,0,1.526725852
+Enterobacter roggenkampii,Escherichia coli,0,1.526725852
+Enterobacter roggenkampii,Klebsiella oxytoca,0,1.526725852
+Enterobacter roggenkampii,Klebsiella pneumoniae,0,1.526725852
+Enterobacter roggenkampii,Klebsiella quasipneumoniae IF2SW-B3,0,1.526725852
+Enterobacter roggenkampii,Klebsiella quasipneumoniae IF2SW-P1,0,1.526725852
+Enterobacter roggenkampii,Pantoea ananatis,0,1.526725852
+Enterobacter roggenkampii,Penicillium rubens,0.003203075,1.526725852
+Enterobacter roggenkampii,Rhodotorula sp. JG-1b,0,1.526725852
+Enterobacter roggenkampii,Salmonella enterica,0,1.526725852
+Enterobacter roggenkampii,Shigella sonnei,0,1.526725852
+Enterobacter sp. NFIX59,Enterobacter asburiae,0,1.348245624
+Enterobacter sp. NFIX59,Enterobacter cancerogenus,0,1.348245624
+Enterobacter sp. NFIX59,Enterobacter cloacae,0,1.348245624
+Enterobacter sp. NFIX59,Enterobacter roggenkampii,0,1.348245624
+Enterobacter sp. NFIX59,Enterobacter hormaechei,0,1.348245624
+Enterobacter sp. NFIX59,Escherichia coli,0,1.348245624
+Enterobacter sp. NFIX59,Klebsiella oxytoca,0,1.348245624
+Enterobacter sp. NFIX59,Klebsiella pneumoniae,0,1.348245624
+Enterobacter sp. NFIX59,Klebsiella quasipneumoniae IF2SW-B3,0,1.348245624
+Enterobacter sp. NFIX59,Klebsiella quasipneumoniae IF2SW-P1,0,1.348245624
+Enterobacter sp. NFIX59,Pantoea ananatis,0,1.348245624
+Enterobacter sp. NFIX59,Penicillium rubens,0.003140704,1.348245624
+Enterobacter sp. NFIX59,Rhodotorula sp. JG-1b,0,1.348245624
+Enterobacter sp. NFIX59,Salmonella enterica,0,1.348245624
+Enterobacter sp. NFIX59,Shigella sonnei,0,1.348245624
+Escherichia coli,Enterobacter asburiae,0,4.075434383
+Escherichia coli,Enterobacter cancerogenus,0,4.075434383
+Escherichia coli,Enterobacter cloacae,0,4.075434383
+Escherichia coli,Enterobacter roggenkampii,0,4.075434383
+Escherichia coli,Enterobacter hormaechei,0,4.075434383
+Escherichia coli,Enterobacter sp. NFIX59,0,4.075434383
+Escherichia coli,Klebsiella oxytoca,0,4.075434383
+Escherichia coli,Klebsiella pneumoniae,0,4.075434383
+Escherichia coli,Klebsiella quasipneumoniae IF2SW-B3,0,4.075434383
+Escherichia coli,Klebsiella quasipneumoniae IF2SW-P1,0,4.075434383
+Escherichia coli,Pantoea ananatis,0,4.075434383
+Escherichia coli,Penicillium rubens,0.002478315,4.075434383
+Escherichia coli,Rhodotorula sp. JG-1b,0,4.075434383
+Escherichia coli,Salmonella enterica,0,4.075434383
+Escherichia coli,Shigella sonnei,0,4.075434383
+Klebsiella oxytoca,Enterobacter asburiae,0,2.998848164
+Klebsiella oxytoca,Enterobacter cancerogenus,0,2.998848164
+Klebsiella oxytoca,Enterobacter cloacae,0,2.998848164
+Klebsiella oxytoca,Enterobacter roggenkampii,0,2.998848164
+Klebsiella oxytoca,Enterobacter hormaechei,0,2.998848164
+Klebsiella oxytoca,Enterobacter sp. NFIX59,0,2.998848164
+Klebsiella oxytoca,Escherichia coli,0.001180638,2.998848164
+Klebsiella oxytoca,Klebsiella pneumoniae,0,2.998848164
+Klebsiella oxytoca,Klebsiella quasipneumoniae IF2SW-B3,0,2.998848164
+Klebsiella oxytoca,Klebsiella quasipneumoniae IF2SW-P1,0,2.998848164
+Klebsiella oxytoca,Pantoea ananatis,0,2.998848164
+Klebsiella oxytoca,Penicillium rubens,0.00472255,2.998848164
+Klebsiella oxytoca,Rhodotorula sp. JG-1b,0,2.998848164
+Klebsiella oxytoca,Salmonella enterica,0,2.998848164
+Klebsiella oxytoca,Shigella sonnei,0.001180638,2.998848164
+Klebsiella pneumoniae,Enterobacter asburiae,0,22.15491106
+Klebsiella pneumoniae,Enterobacter cancerogenus,0,22.15491106
+Klebsiella pneumoniae,Enterobacter cloacae,0,22.15491106
+Klebsiella pneumoniae,Enterobacter roggenkampii,0,22.15491106
+Klebsiella pneumoniae,Enterobacter hormaechei,0,22.15491106
+Klebsiella pneumoniae,Enterobacter sp. NFIX59,0,22.15491106
+Klebsiella pneumoniae,Escherichia coli,0.007096393,22.15491106
+Klebsiella pneumoniae,Klebsiella oxytoca,0,22.15491106
+Klebsiella pneumoniae,Klebsiella quasipneumoniae IF2SW-B3,0,22.15491106
+Klebsiella pneumoniae,Klebsiella quasipneumoniae IF2SW-P1,0,22.15491106
+Klebsiella pneumoniae,Pantoea ananatis,0,22.15491106
+Klebsiella pneumoniae,Penicillium rubens,0.008870491,22.15491106
+Klebsiella pneumoniae,Rhodotorula sp. JG-1b,0.005913661,22.15491106
+Klebsiella pneumoniae,Salmonella enterica,0,22.15491106
+Klebsiella pneumoniae,Shigella sonnei,0.007096393,22.15491106
+Klebsiella quasipneumoniae IF2SW-B3,Enterobacter asburiae,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Enterobacter cancerogenus,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Enterobacter cloacae,0,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Enterobacter roggenkampii,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Enterobacter hormaechei,0,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Enterobacter sp. NFIX59,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Escherichia coli,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Klebsiella oxytoca,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Klebsiella pneumoniae,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Klebsiella quasipneumoniae IF2SW-P1,0,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Pantoea ananatis,0.00234192,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Penicillium rubens,0,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Rhodotorula sp. JG-1b,0.00234192,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Salmonella enterica,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-B3,Shigella sonnei,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Enterobacter asburiae,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Enterobacter cancerogenus,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Enterobacter cloacae,0,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Enterobacter roggenkampii,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Enterobacter hormaechei,0,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Enterobacter sp. NFIX59,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Escherichia coli,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Klebsiella oxytoca,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Klebsiella pneumoniae,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Klebsiella quasipneumoniae IF2SW-B3,0,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Pantoea ananatis,0.00234192,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Penicillium rubens,0,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Rhodotorula sp. JG-1b,0.00234192,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Salmonella enterica,0.004683841,2.112423528
+Klebsiella quasipneumoniae IF2SW-P1,Shigella sonnei,0.004683841,2.112423528
+Pantoea ananatis,Enterobacter asburiae,0.036540804,1.042900453
+Pantoea ananatis,Enterobacter cancerogenus,0.021315469,1.042900453
+Pantoea ananatis,Enterobacter cloacae,0,1.042900453
+Pantoea ananatis,Enterobacter roggenkampii,0.036540804,1.042900453
+Pantoea ananatis,Enterobacter hormaechei,0,1.042900453
+Pantoea ananatis,Enterobacter sp. NFIX59,0.036540804,1.042900453
+Pantoea ananatis,Escherichia coli,0.036540804,1.042900453
+Pantoea ananatis,Klebsiella oxytoca,0.036540804,1.042900453
+Pantoea ananatis,Klebsiella pneumoniae,0.036540804,1.042900453
+Pantoea ananatis,Klebsiella quasipneumoniae IF2SW-B3,0,1.042900453
+Pantoea ananatis,Klebsiella quasipneumoniae IF2SW-P1,0,1.042900453
+Pantoea ananatis,Penicillium rubens,0.001218027,1.042900453
+Pantoea ananatis,Rhodotorula sp. JG-1b,0,1.042900453
+Pantoea ananatis,Salmonella enterica,0.036540804,1.042900453
+Pantoea ananatis,Shigella sonnei,0.036540804,1.042900453
+Penicillium rubens,Enterobacter asburiae,0.005988024,1.179273474
+Penicillium rubens,Enterobacter cancerogenus,0.005988024,1.179273474
+Penicillium rubens,Enterobacter cloacae,0,1.179273474
+Penicillium rubens,Enterobacter roggenkampii,0.005988024,1.179273474
+Penicillium rubens,Enterobacter hormaechei,0,1.179273474
+Penicillium rubens,Enterobacter sp. NFIX59,0.005988024,1.179273474
+Penicillium rubens,Escherichia coli,0.005988024,1.179273474
+Penicillium rubens,Klebsiella oxytoca,0.005988024,1.179273474
+Penicillium rubens,Klebsiella pneumoniae,0.005988024,1.179273474
+Penicillium rubens,Klebsiella quasipneumoniae IF2SW-B3,0,1.179273474
+Penicillium rubens,Klebsiella quasipneumoniae IF2SW-P1,0,1.179273474
+Penicillium rubens,Pantoea ananatis,0.000665336,1.179273474
+Penicillium rubens,Rhodotorula sp. JG-1b,0,1.179273474
+Penicillium rubens,Salmonella enterica,0.005988024,1.179273474
+Penicillium rubens,Shigella sonnei,0.005988024,1.179273474
+Rhodotorula sp. JG-1b,Enterobacter asburiae,0,2.068143045
+Rhodotorula sp. JG-1b,Enterobacter cancerogenus,0,2.068143045
+Rhodotorula sp. JG-1b,Enterobacter cloacae,0,2.068143045
+Rhodotorula sp. JG-1b,Enterobacter roggenkampii,0,2.068143045
+Rhodotorula sp. JG-1b,Enterobacter hormaechei,0,2.068143045
+Rhodotorula sp. JG-1b,Enterobacter sp. NFIX59,0,2.068143045
+Rhodotorula sp. JG-1b,Escherichia coli,0,2.068143045
+Rhodotorula sp. JG-1b,Klebsiella oxytoca,0,2.068143045
+Rhodotorula sp. JG-1b,Klebsiella pneumoniae,0,2.068143045
+Rhodotorula sp. JG-1b,Klebsiella quasipneumoniae IF2SW-B3,0,2.068143045
+Rhodotorula sp. JG-1b,Klebsiella quasipneumoniae IF2SW-P1,0,2.068143045
+Rhodotorula sp. JG-1b,Pantoea ananatis,0,2.068143045
+Rhodotorula sp. JG-1b,Penicillium rubens,0,2.068143045
+Rhodotorula sp. JG-1b,Salmonella enterica,0,2.068143045
+Rhodotorula sp. JG-1b,Shigella sonnei,0,2.068143045
+Salmonella enterica,Enterobacter asburiae,0.00365408,3.396829191
+Salmonella enterica,Enterobacter cancerogenus,0,3.396829191
+Salmonella enterica,Enterobacter cloacae,0,3.396829191
+Salmonella enterica,Enterobacter roggenkampii,0.00365408,3.396829191
+Salmonella enterica,Enterobacter hormaechei,0,3.396829191
+Salmonella enterica,Enterobacter sp. NFIX59,0.00365408,3.396829191
+Salmonella enterica,Escherichia coli,0.009744214,3.396829191
+Salmonella enterica,Klebsiella oxytoca,0.00365408,3.396829191
+Salmonella enterica,Klebsiella pneumoniae,0.00365408,3.396829191
+Salmonella enterica,Klebsiella quasipneumoniae IF2SW-B3,0,3.396829191
+Salmonella enterica,Klebsiella quasipneumoniae IF2SW-P1,0,3.396829191
+Salmonella enterica,Pantoea ananatis,0.00365408,3.396829191
+Salmonella enterica,Penicillium rubens,0.008526188,3.396829191
+Salmonella enterica,Rhodotorula sp. JG-1b,0.006090134,3.396829191
+Salmonella enterica,Shigella sonnei,0.009744214,3.396829191
+Shigella sonnei,Enterobacter asburiae,0,1.618003412
+Shigella sonnei,Enterobacter cancerogenus,0,1.618003412
+Shigella sonnei,Enterobacter cloacae,0,1.618003412
+Shigella sonnei,Enterobacter roggenkampii,0,1.618003412
+Shigella sonnei,Enterobacter hormaechei,0,1.618003412
+Shigella sonnei,Enterobacter sp. NFIX59,0,1.618003412
+Shigella sonnei,Escherichia coli,0,1.618003412
+Shigella sonnei,Klebsiella oxytoca,0,1.618003412
+Shigella sonnei,Klebsiella pneumoniae,0,1.618003412
+Shigella sonnei,Klebsiella quasipneumoniae IF2SW-B3,0,1.618003412
+Shigella sonnei,Klebsiella quasipneumoniae IF2SW-P1,0,1.618003412
+Shigella sonnei,Pantoea ananatis,0,1.618003412
+Shigella sonnei,Penicillium rubens,0.00249066,1.618003412
+Shigella sonnei,Rhodotorula sp. JG-1b,0,1.618003412
+Shigella sonnei,Salmonella enterica,0,1.618003412

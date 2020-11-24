@@ -1,0 +1,57 @@
+Organism,In the presence of,MSI,Organism_abundance
+Escherichia coli,Penicillium rubens,0.002478315,2.740506987
+Escherichia coli,Klebsiella pneumoniae,0,2.740506987
+Escherichia coli,Klebsiella quasipneumoniae IIIF3SW-P1,0,2.740506987
+Escherichia coli,Klebsiella sp. MS 92-3,0,2.740506987
+Escherichia coli,Klebsiella variicola,0,2.740506987
+Escherichia coli,Salmonella enterica,0,2.740506987
+Escherichia coli,Staphylococcus saprophyticus,0,2.740506987
+Klebsiella pneumoniae,Penicillium rubens,0.008870491,69.73001403
+Klebsiella pneumoniae,Escherichia coli,0.007096393,69.73001403
+Klebsiella pneumoniae,Klebsiella quasipneumoniae IIIF3SW-P1,0,69.73001403
+Klebsiella pneumoniae,Klebsiella sp. MS 92-3,0,69.73001403
+Klebsiella pneumoniae,Klebsiella variicola,0,69.73001403
+Klebsiella pneumoniae,Salmonella enterica,0,69.73001403
+Klebsiella pneumoniae,Staphylococcus saprophyticus,0,69.73001403
+Klebsiella quasipneumoniae IIIF3SW-P1,Escherichia coli,0.004683841,7.746480702
+Klebsiella quasipneumoniae IIIF3SW-P1,Klebsiella pneumoniae,0.004683841,7.746480702
+Klebsiella quasipneumoniae IIIF3SW-P1,Klebsiella sp. MS 92-3,0.004683841,7.746480702
+Klebsiella quasipneumoniae IIIF3SW-P1,Klebsiella variicola,0.004683841,7.746480702
+Klebsiella quasipneumoniae IIIF3SW-P1,Salmonella enterica,0.004683841,7.746480702
+Klebsiella quasipneumoniae IIIF3SW-P1,Staphylococcus saprophyticus,0.004683841,7.746480702
+Klebsiella quasipneumoniae IIIF3SW-P1,Penicillium rubens,0,7.746480702
+Klebsiella sp. MS 92-3,Penicillium rubens,0.0089982,1.243831489
+Klebsiella sp. MS 92-3,Escherichia coli,0.00719856,1.243831489
+Klebsiella sp. MS 92-3,Klebsiella pneumoniae,0,1.243831489
+Klebsiella sp. MS 92-3,Klebsiella quasipneumoniae IIIF3SW-P1,0,1.243831489
+Klebsiella sp. MS 92-3,Klebsiella variicola,0,1.243831489
+Klebsiella sp. MS 92-3,Salmonella enterica,0,1.243831489
+Klebsiella sp. MS 92-3,Staphylococcus saprophyticus,0,1.243831489
+Klebsiella variicola,Penicillium rubens,0.008928571,1.955093242
+Klebsiella variicola,Escherichia coli,0.007142857,1.955093242
+Klebsiella variicola,Klebsiella pneumoniae,0,1.955093242
+Klebsiella variicola,Klebsiella quasipneumoniae IIIF3SW-P1,0,1.955093242
+Klebsiella variicola,Klebsiella sp. MS 92-3,0,1.955093242
+Klebsiella variicola,Salmonella enterica,0,1.955093242
+Klebsiella variicola,Staphylococcus saprophyticus,0,1.955093242
+Penicillium rubens,Escherichia coli,0.005988024,2.297672848
+Penicillium rubens,Klebsiella pneumoniae,0.005988024,2.297672848
+Penicillium rubens,Klebsiella sp. MS 92-3,0.005988024,2.297672848
+Penicillium rubens,Klebsiella variicola,0.005988024,2.297672848
+Penicillium rubens,Salmonella enterica,0.005988024,2.297672848
+Penicillium rubens,Klebsiella quasipneumoniae IIIF3SW-P1,0,2.297672848
+Penicillium rubens,Staphylococcus saprophyticus,0,2.297672848
+Salmonella enterica,Escherichia coli,0.009744214,1.357981404
+Salmonella enterica,Penicillium rubens,0.008526188,1.357981404
+Salmonella enterica,Klebsiella pneumoniae,0.00365408,1.357981404
+Salmonella enterica,Klebsiella sp. MS 92-3,0.00365408,1.357981404
+Salmonella enterica,Klebsiella variicola,0.00365408,1.357981404
+Salmonella enterica,Klebsiella quasipneumoniae IIIF3SW-P1,0,1.357981404
+Salmonella enterica,Staphylococcus saprophyticus,0,1.357981404
+Staphylococcus saprophyticus,Escherichia coli,0.067104303,7.123396187
+Staphylococcus saprophyticus,Klebsiella pneumoniae,0.067104303,7.123396187
+Staphylococcus saprophyticus,Klebsiella sp. MS 92-3,0.067104303,7.123396187
+Staphylococcus saprophyticus,Klebsiella variicola,0.067104303,7.123396187
+Staphylococcus saprophyticus,Salmonella enterica,0.064186725,7.123396187
+Staphylococcus saprophyticus,Penicillium rubens,0.001458789,7.123396187
+Staphylococcus saprophyticus,Klebsiella quasipneumoniae IIIF3SW-P1,0,7.123396187
