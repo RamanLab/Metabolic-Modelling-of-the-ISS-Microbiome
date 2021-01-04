@@ -1,0 +1,183 @@
+Organism,In the presence of,MSI,Abundance
+Enterobacter cloacae,Escherichia coli,0.0,1.175806849
+Enterobacter cloacae,Klebsiella aerogenes IIIF7SW-P1,0.008573178199632547,1.175806849
+Enterobacter cloacae,Klebsiella pneumoniae,0.0,1.175806849
+Enterobacter cloacae,Pantoea agglomerans,0.0,1.175806849
+Enterobacter cloacae,Pantoea ananatis,0.0,1.175806849
+Enterobacter cloacae,Pantoea conspicua,0.0,1.175806849
+Enterobacter cloacae,Pantoea sp. A4,0.0,1.175806849
+Enterobacter cloacae,Pantoea sp. IMH,0.0,1.175806849
+Enterobacter cloacae,Pantoea sp. NGS-ED-1003,0.0,1.175806849
+Enterobacter cloacae,Pantoea sp. OXWO6B1,0.0012247397428046813,1.175806849
+Enterobacter cloacae,Pantoea sp. PSNIH2,0.0,1.175806849
+Enterobacter cloacae,Pantoea vagans,0.0,1.175806849
+Enterobacter cloacae,Salmonella enterica,0.0,1.175806849
+Escherichia coli,Enterobacter cloacae,0.0,3.007430525
+Escherichia coli,Klebsiella aerogenes IIIF7SW-P1,0.0074349442379182396,3.007430525
+Escherichia coli,Klebsiella pneumoniae,0.0,3.007430525
+Escherichia coli,Pantoea agglomerans,0.0,3.007430525
+Escherichia coli,Pantoea ananatis,0.0,3.007430525
+Escherichia coli,Pantoea conspicua,0.0,3.007430525
+Escherichia coli,Pantoea sp. A4,0.0,3.007430525
+Escherichia coli,Pantoea sp. IMH,0.0,3.007430525
+Escherichia coli,Pantoea sp. NGS-ED-1003,0.0,3.007430525
+Escherichia coli,Pantoea sp. OXWO6B1,0.0012391573729864103,3.007430525
+Escherichia coli,Pantoea sp. PSNIH2,0.0,3.007430525
+Escherichia coli,Pantoea vagans,0.0,3.007430525
+Escherichia coli,Salmonella enterica,0.0,3.007430525
+Klebsiella aerogenes IIIF7SW-P1,Enterobacter cloacae,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Escherichia coli,0.006053268765133124,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Klebsiella pneumoniae,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea agglomerans,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea ananatis,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea conspicua,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea sp. A4,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea sp. IMH,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea sp. NGS-ED-1003,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea sp. OXWO6B1,0.001210653753026647,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea sp. PSNIH2,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Pantoea vagans,0.0,39.13393697
+Klebsiella aerogenes IIIF7SW-P1,Salmonella enterica,0.0,39.13393697
+Klebsiella pneumoniae,Enterobacter cloacae,0.0,6.319615315
+Klebsiella pneumoniae,Escherichia coli,0.007096392667060858,6.319615315
+Klebsiella pneumoniae,Klebsiella aerogenes IIIF7SW-P1,0.0011827321111768097,6.319615315
+Klebsiella pneumoniae,Pantoea agglomerans,0.0,6.319615315
+Klebsiella pneumoniae,Pantoea ananatis,0.0,6.319615315
+Klebsiella pneumoniae,Pantoea conspicua,0.0,6.319615315
+Klebsiella pneumoniae,Pantoea sp. A4,0.0,6.319615315
+Klebsiella pneumoniae,Pantoea sp. IMH,0.0,6.319615315
+Klebsiella pneumoniae,Pantoea sp. NGS-ED-1003,0.0,6.319615315
+Klebsiella pneumoniae,Pantoea sp. OXWO6B1,0.0011827321111768097,6.319615315
+Klebsiella pneumoniae,Pantoea sp. PSNIH2,0.0,6.319615315
+Klebsiella pneumoniae,Pantoea vagans,0.0,6.319615315
+Klebsiella pneumoniae,Salmonella enterica,0.0,6.319615315
+Pantoea agglomerans,Enterobacter cloacae,0.07012374779021802,1.385661711
+Pantoea agglomerans,Escherichia coli,0.07248084855627579,1.385661711
+Pantoea agglomerans,Klebsiella aerogenes IIIF7SW-P1,0.07012374779021802,1.385661711
+Pantoea agglomerans,Klebsiella pneumoniae,0.07012374779021802,1.385661711
+Pantoea agglomerans,Pantoea ananatis,0.0,1.385661711
+Pantoea agglomerans,Pantoea conspicua,0.0,1.385661711
+Pantoea agglomerans,Pantoea sp. A4,0.0,1.385661711
+Pantoea agglomerans,Pantoea sp. IMH,0.0,1.385661711
+Pantoea agglomerans,Pantoea sp. NGS-ED-1003,0.0,1.385661711
+Pantoea agglomerans,Pantoea sp. OXWO6B1,0.0,1.385661711
+Pantoea agglomerans,Pantoea sp. PSNIH2,0.0,1.385661711
+Pantoea agglomerans,Pantoea vagans,0.0,1.385661711
+Pantoea agglomerans,Salmonella enterica,0.06658809664113141,1.385661711
+Pantoea ananatis,Enterobacter cloacae,0.03654080389768577,5.565964052
+Pantoea ananatis,Escherichia coli,0.03654080389768577,5.565964052
+Pantoea ananatis,Klebsiella aerogenes IIIF7SW-P1,0.03654080389768577,5.565964052
+Pantoea ananatis,Klebsiella pneumoniae,0.03654080389768577,5.565964052
+Pantoea ananatis,Pantoea agglomerans,0.0,5.565964052
+Pantoea ananatis,Pantoea conspicua,0.0,5.565964052
+Pantoea ananatis,Pantoea sp. A4,0.0,5.565964052
+Pantoea ananatis,Pantoea sp. IMH,0.0,5.565964052
+Pantoea ananatis,Pantoea sp. NGS-ED-1003,0.0,5.565964052
+Pantoea ananatis,Pantoea sp. OXWO6B1,0.0,5.565964052
+Pantoea ananatis,Pantoea sp. PSNIH2,0.0,5.565964052
+Pantoea ananatis,Pantoea vagans,0.0,5.565964052
+Pantoea ananatis,Salmonella enterica,0.03654080389768577,5.565964052
+Pantoea conspicua,Enterobacter cloacae,0.08043758043758042,1.150532953
+Pantoea conspicua,Escherichia coli,0.08043758043758042,1.150532953
+Pantoea conspicua,Klebsiella aerogenes IIIF7SW-P1,0.08043758043758042,1.150532953
+Pantoea conspicua,Klebsiella pneumoniae,0.08043758043758042,1.150532953
+Pantoea conspicua,Pantoea agglomerans,0.0,1.150532953
+Pantoea conspicua,Pantoea ananatis,0.0,1.150532953
+Pantoea conspicua,Pantoea sp. A4,0.0,1.150532953
+Pantoea conspicua,Pantoea sp. IMH,0.0,1.150532953
+Pantoea conspicua,Pantoea sp. NGS-ED-1003,0.0,1.150532953
+Pantoea conspicua,Pantoea sp. OXWO6B1,0.0,1.150532953
+Pantoea conspicua,Pantoea sp. PSNIH2,0.0,1.150532953
+Pantoea conspicua,Pantoea vagans,0.0,1.150532953
+Pantoea conspicua,Salmonella enterica,0.07657657657657657,1.150532953
+Pantoea sp. A4,Enterobacter cloacae,0.04120719674985496,1.306415819
+Pantoea sp. A4,Escherichia coli,0.04701102727800344,1.306415819
+Pantoea sp. A4,Klebsiella aerogenes IIIF7SW-P1,0.04120719674985496,1.306415819
+Pantoea sp. A4,Klebsiella pneumoniae,0.04120719674985496,1.306415819
+Pantoea sp. A4,Pantoea agglomerans,0.0,1.306415819
+Pantoea sp. A4,Pantoea ananatis,0.0,1.306415819
+Pantoea sp. A4,Pantoea conspicua,0.0,1.306415819
+Pantoea sp. A4,Pantoea sp. IMH,0.0,1.306415819
+Pantoea sp. A4,Pantoea sp. NGS-ED-1003,0.0,1.306415819
+Pantoea sp. A4,Pantoea sp. OXWO6B1,0.0,1.306415819
+Pantoea sp. A4,Pantoea sp. PSNIH2,0.0,1.306415819
+Pantoea sp. A4,Pantoea vagans,0.0,1.306415819
+Pantoea sp. A4,Salmonella enterica,0.03772489843296578,1.306415819
+Pantoea sp. IMH,Enterobacter cloacae,0.06736711990111244,1.045523993
+Pantoea sp. IMH,Escherichia coli,0.06736711990111244,1.045523993
+Pantoea sp. IMH,Klebsiella aerogenes IIIF7SW-P1,0.06736711990111244,1.045523993
+Pantoea sp. IMH,Klebsiella pneumoniae,0.06736711990111244,1.045523993
+Pantoea sp. IMH,Pantoea agglomerans,0.0,1.045523993
+Pantoea sp. IMH,Pantoea ananatis,0.0,1.045523993
+Pantoea sp. IMH,Pantoea conspicua,0.0,1.045523993
+Pantoea sp. IMH,Pantoea sp. A4,0.0,1.045523993
+Pantoea sp. IMH,Pantoea sp. NGS-ED-1003,0.0,1.045523993
+Pantoea sp. IMH,Pantoea sp. OXWO6B1,0.0,1.045523993
+Pantoea sp. IMH,Pantoea sp. PSNIH2,0.0,1.045523993
+Pantoea sp. IMH,Pantoea vagans,0.0,1.045523993
+Pantoea sp. IMH,Salmonella enterica,0.06365883807169348,1.045523993
+Pantoea sp. NGS-ED-1003,Enterobacter cloacae,0.06627906976744191,6.406035732
+Pantoea sp. NGS-ED-1003,Escherichia coli,0.06860465116279069,6.406035732
+Pantoea sp. NGS-ED-1003,Klebsiella aerogenes IIIF7SW-P1,0.06627906976744191,6.406035732
+Pantoea sp. NGS-ED-1003,Klebsiella pneumoniae,0.06627906976744191,6.406035732
+Pantoea sp. NGS-ED-1003,Pantoea agglomerans,0.0,6.406035732
+Pantoea sp. NGS-ED-1003,Pantoea ananatis,0.0,6.406035732
+Pantoea sp. NGS-ED-1003,Pantoea conspicua,0.0,6.406035732
+Pantoea sp. NGS-ED-1003,Pantoea sp. A4,0.0,6.406035732
+Pantoea sp. NGS-ED-1003,Pantoea sp. IMH,0.0,6.406035732
+Pantoea sp. NGS-ED-1003,Pantoea sp. OXWO6B1,0.0,6.406035732
+Pantoea sp. NGS-ED-1003,Pantoea sp. PSNIH2,0.0,6.406035732
+Pantoea sp. NGS-ED-1003,Pantoea vagans,0.0,6.406035732
+Pantoea sp. NGS-ED-1003,Salmonella enterica,0.06279069767441858,6.406035732
+Pantoea sp. OXWO6B1,Enterobacter cloacae,0.0730403800475059,1.783521746
+Pantoea sp. OXWO6B1,Escherichia coli,0.0730403800475059,1.783521746
+Pantoea sp. OXWO6B1,Klebsiella aerogenes IIIF7SW-P1,0.0730403800475059,1.783521746
+Pantoea sp. OXWO6B1,Klebsiella pneumoniae,0.0730403800475059,1.783521746
+Pantoea sp. OXWO6B1,Pantoea agglomerans,0.0,1.783521746
+Pantoea sp. OXWO6B1,Pantoea ananatis,0.0,1.783521746
+Pantoea sp. OXWO6B1,Pantoea conspicua,0.0,1.783521746
+Pantoea sp. OXWO6B1,Pantoea sp. A4,0.0,1.783521746
+Pantoea sp. OXWO6B1,Pantoea sp. IMH,0.0,1.783521746
+Pantoea sp. OXWO6B1,Pantoea sp. NGS-ED-1003,0.0,1.783521746
+Pantoea sp. OXWO6B1,Pantoea sp. PSNIH2,0.0,1.783521746
+Pantoea sp. OXWO6B1,Pantoea vagans,0.0,1.783521746
+Pantoea sp. OXWO6B1,Salmonella enterica,0.06947743467933487,1.783521746
+Pantoea sp. PSNIH2,Enterobacter cloacae,0.06957047791893523,1.357778897
+Pantoea sp. PSNIH2,Escherichia coli,0.06957047791893523,1.357778897
+Pantoea sp. PSNIH2,Klebsiella aerogenes IIIF7SW-P1,0.06957047791893523,1.357778897
+Pantoea sp. PSNIH2,Klebsiella pneumoniae,0.06957047791893523,1.357778897
+Pantoea sp. PSNIH2,Pantoea agglomerans,0.0,1.357778897
+Pantoea sp. PSNIH2,Pantoea ananatis,0.0,1.357778897
+Pantoea sp. PSNIH2,Pantoea conspicua,0.0,1.357778897
+Pantoea sp. PSNIH2,Pantoea sp. A4,0.0,1.357778897
+Pantoea sp. PSNIH2,Pantoea sp. IMH,0.0,1.357778897
+Pantoea sp. PSNIH2,Pantoea sp. NGS-ED-1003,0.0,1.357778897
+Pantoea sp. PSNIH2,Pantoea sp. OXWO6B1,0.0,1.357778897
+Pantoea sp. PSNIH2,Pantoea vagans,0.0,1.357778897
+Pantoea sp. PSNIH2,Salmonella enterica,0.06594071385359956,1.357778897
+Pantoea vagans,Enterobacter cloacae,0.06993424985056784,7.020272925
+Pantoea vagans,Escherichia coli,0.07232516437537362,7.020272925
+Pantoea vagans,Klebsiella aerogenes IIIF7SW-P1,0.06993424985056784,7.020272925
+Pantoea vagans,Klebsiella pneumoniae,0.06993424985056784,7.020272925
+Pantoea vagans,Pantoea agglomerans,0.0,7.020272925
+Pantoea vagans,Pantoea ananatis,0.0,7.020272925
+Pantoea vagans,Pantoea conspicua,0.0,7.020272925
+Pantoea vagans,Pantoea sp. A4,0.0,7.020272925
+Pantoea vagans,Pantoea sp. IMH,0.0,7.020272925
+Pantoea vagans,Pantoea sp. NGS-ED-1003,0.0,7.020272925
+Pantoea vagans,Pantoea sp. OXWO6B1,0.0,7.020272925
+Pantoea vagans,Pantoea sp. PSNIH2,0.0,7.020272925
+Pantoea vagans,Salmonella enterica,0.06634787806335929,7.020272925
+Salmonella enterica,Enterobacter cloacae,0.0036540803897685548,2.262258247
+Salmonella enterica,Escherichia coli,0.00974421437271622,2.262258247
+Salmonella enterica,Klebsiella aerogenes IIIF7SW-P1,0.011571254567600442,2.262258247
+Salmonella enterica,Klebsiella pneumoniae,0.0036540803897685548,2.262258247
+Salmonella enterica,Pantoea agglomerans,0.0,2.262258247
+Salmonella enterica,Pantoea ananatis,0.0036540803897685548,2.262258247
+Salmonella enterica,Pantoea conspicua,0.0,2.262258247
+Salmonella enterica,Pantoea sp. A4,0.0,2.262258247
+Salmonella enterica,Pantoea sp. IMH,0.0,2.262258247
+Salmonella enterica,Pantoea sp. NGS-ED-1003,0.0,2.262258247
+Salmonella enterica,Pantoea sp. OXWO6B1,0.0012180267965895553,2.262258247
+Salmonella enterica,Pantoea sp. PSNIH2,0.0,2.262258247
+Salmonella enterica,Pantoea vagans,0.0,2.262258247
