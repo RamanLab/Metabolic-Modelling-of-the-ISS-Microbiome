@@ -1,0 +1,15 @@
+Enterococcus avium
+Enterococcus faecalis
+Klebsiella pneumoniae F3-2P(2)
+Paenibacillus polymyxa
+Penicillium chrysogenum
+Penicillium flavigenum
+Penicillium nalgiovense
+Penicillium rubens
+Rhodotorula sp. JG-1b
+Staphylococcus aureus
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Staphylococcus saprophyticus
+Staphylococcus sp. LCT-H4
+Staphylococcus warneri
