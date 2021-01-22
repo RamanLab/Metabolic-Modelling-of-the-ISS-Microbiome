@@ -1,0 +1,57 @@
+Org A,Org B,Effect
+Escherichia coli,Klebsiella pneumoniae,-0.832
+Escherichia coli,Pantoea ananatis,-0.804
+Escherichia coli,Penicillium rubens,0
+Escherichia coli,Rhodotorula sp. JG-1b,-1
+Escherichia coli,Pantoea agglomerans,-0.907
+Escherichia coli,Pantoea conspicua,-0.882
+Escherichia coli,Pantoea sp. 3.5.1,-0.782
+Klebsiella pneumoniae,Penicillium rubens,0
+Klebsiella pneumoniae,Rhodotorula sp. JG-1b,-1
+Klebsiella pneumoniae,Pantoea ananatis,-0.738
+Klebsiella pneumoniae,Pantoea agglomerans,-0.7
+Klebsiella pneumoniae,Pantoea conspicua,-0.847
+Klebsiella pneumoniae,Pantoea sp. 3.5.1,-0.719
+Pantoea agglomerans,Pantoea ananatis,-0.683
+Pantoea agglomerans,Pantoea conspicua,-0.704
+Pantoea agglomerans,Pantoea sp. 3.5.1,-0.479
+Pantoea agglomerans,Penicillium rubens,0
+Pantoea agglomerans,Rhodotorula sp. JG-1b,-1
+Pantoea ananatis,Penicillium rubens,0
+Pantoea ananatis,Rhodotorula sp. JG-1b,-1
+Pantoea ananatis,Pantoea conspicua,-0.526
+Pantoea ananatis,Pantoea sp. 3.5.1,-0.596
+Pantoea conspicua,Pantoea sp. 3.5.1,-0.158
+Pantoea conspicua,Penicillium rubens,0
+Pantoea conspicua,Rhodotorula sp. JG-1b,-1
+Pantoea sp. 3.5.1,Penicillium rubens,0
+Pantoea sp. 3.5.1,Rhodotorula sp. JG-1b,-1
+Penicillium rubens,Rhodotorula sp. JG-1b,-1
+Klebsiella pneumoniae,Escherichia coli,-0.168
+Pantoea ananatis,Escherichia coli,-0.132
+Penicillium rubens,Escherichia coli,-1
+Rhodotorula sp. JG-1b,Escherichia coli,0
+Pantoea agglomerans,Escherichia coli,0
+Pantoea conspicua,Escherichia coli,-0.118
+Pantoea sp. 3.5.1,Escherichia coli,-0.218
+Penicillium rubens,Klebsiella pneumoniae,-1
+Rhodotorula sp. JG-1b,Klebsiella pneumoniae,0
+Pantoea ananatis,Klebsiella pneumoniae,-0.176
+Pantoea agglomerans,Klebsiella pneumoniae,-0.3
+Pantoea conspicua,Klebsiella pneumoniae,-0.153
+Pantoea sp. 3.5.1,Klebsiella pneumoniae,-0.281
+Pantoea ananatis,Pantoea agglomerans,-0.214
+Pantoea conspicua,Pantoea agglomerans,-0.296
+Pantoea sp. 3.5.1,Pantoea agglomerans,-0.521
+Penicillium rubens,Pantoea agglomerans,-1
+Rhodotorula sp. JG-1b,Pantoea agglomerans,0
+Penicillium rubens,Pantoea ananatis,-1
+Rhodotorula sp. JG-1b,Pantoea ananatis,0
+Pantoea conspicua,Pantoea ananatis,-0.22
+Pantoea sp. 3.5.1,Pantoea ananatis,-0.115
+Pantoea sp. 3.5.1,Pantoea conspicua,-0.842
+Penicillium rubens,Pantoea conspicua,-1
+Rhodotorula sp. JG-1b,Pantoea conspicua,0
+Penicillium rubens,Pantoea sp. 3.5.1,-1
+Rhodotorula sp. JG-1b,Pantoea sp. 3.5.1,0
+Rhodotorula sp. JG-1b,Penicillium rubens,0

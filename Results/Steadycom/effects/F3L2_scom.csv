@@ -1,0 +1,211 @@
+Org A,Org B,Effect
+Enterococcus avium,Enterococcus faecalis,-0.95
+Enterococcus avium,Klebsiella pneumoniae F3-2P(2),0
+Enterococcus avium,Paenibacillus polymyxa,0
+Enterococcus avium,Penicillium chrysogenum,0
+Enterococcus avium,Penicillium flavigenum,0
+Enterococcus avium,Penicillium nalgiovense,0
+Enterococcus avium,Penicillium rubens,0
+Enterococcus avium,Rhodotorula sp. JG-1b,-0.951
+Enterococcus avium,Staphylococcus aureus,0
+Enterococcus avium,Staphylococcus epidermidis,0
+Enterococcus avium,Staphylococcus haemolyticus,-1
+Enterococcus avium,Staphylococcus saprophyticus,0
+Enterococcus avium,Staphylococcus sp. LCT-H4,0
+Enterococcus avium,Staphylococcus warneri,0
+Enterococcus faecalis,Klebsiella pneumoniae F3-2P(2),0.422
+Enterococcus faecalis,Paenibacillus polymyxa,-0.166
+Enterococcus faecalis,Penicillium chrysogenum,0
+Enterococcus faecalis,Penicillium flavigenum,0
+Enterococcus faecalis,Penicillium nalgiovense,0
+Enterococcus faecalis,Penicillium rubens,0
+Enterococcus faecalis,Rhodotorula sp. JG-1b,-0.702
+Enterococcus faecalis,Staphylococcus aureus,1.778
+Enterococcus faecalis,Staphylococcus epidermidis,1.778
+Enterococcus faecalis,Staphylococcus haemolyticus,1.778
+Enterococcus faecalis,Staphylococcus saprophyticus,0.61
+Enterococcus faecalis,Staphylococcus sp. LCT-H4,1.778
+Enterococcus faecalis,Staphylococcus warneri,1.778
+Klebsiella pneumoniae F3-2P(2),Paenibacillus polymyxa,0
+Klebsiella pneumoniae F3-2P(2),Penicillium chrysogenum,0
+Klebsiella pneumoniae F3-2P(2),Penicillium flavigenum,0
+Klebsiella pneumoniae F3-2P(2),Penicillium nalgiovense,0
+Klebsiella pneumoniae F3-2P(2),Penicillium rubens,0
+Klebsiella pneumoniae F3-2P(2),Rhodotorula sp. JG-1b,-1
+Klebsiella pneumoniae F3-2P(2),Staphylococcus aureus,0
+Klebsiella pneumoniae F3-2P(2),Staphylococcus epidermidis,0
+Klebsiella pneumoniae F3-2P(2),Staphylococcus haemolyticus,-1
+Klebsiella pneumoniae F3-2P(2),Staphylococcus saprophyticus,0
+Klebsiella pneumoniae F3-2P(2),Staphylococcus sp. LCT-H4,0
+Klebsiella pneumoniae F3-2P(2),Staphylococcus warneri,0
+Paenibacillus polymyxa,Penicillium chrysogenum,0
+Paenibacillus polymyxa,Penicillium flavigenum,0
+Paenibacillus polymyxa,Penicillium nalgiovense,0
+Paenibacillus polymyxa,Penicillium rubens,0
+Paenibacillus polymyxa,Rhodotorula sp. JG-1b,-1
+Paenibacillus polymyxa,Staphylococcus aureus,-0.191
+Paenibacillus polymyxa,Staphylococcus epidermidis,-0.721
+Paenibacillus polymyxa,Staphylococcus haemolyticus,-0.338
+Paenibacillus polymyxa,Staphylococcus saprophyticus,0
+Paenibacillus polymyxa,Staphylococcus sp. LCT-H4,0
+Paenibacillus polymyxa,Staphylococcus warneri,-0.483
+Penicillium chrysogenum,Penicillium rubens,-0.989
+Penicillium chrysogenum,Rhodotorula sp. JG-1b,-1
+Penicillium chrysogenum,Penicillium flavigenum,-1
+Penicillium chrysogenum,Penicillium nalgiovense,0
+Penicillium chrysogenum,Staphylococcus aureus,-1
+Penicillium chrysogenum,Staphylococcus epidermidis,-1
+Penicillium chrysogenum,Staphylococcus haemolyticus,-1
+Penicillium chrysogenum,Staphylococcus saprophyticus,-1
+Penicillium chrysogenum,Staphylococcus sp. LCT-H4,-1
+Penicillium chrysogenum,Staphylococcus warneri,-1
+Penicillium flavigenum,Penicillium nalgiovense,-1
+Penicillium flavigenum,Penicillium rubens,-1
+Penicillium flavigenum,Rhodotorula sp. JG-1b,-1
+Penicillium flavigenum,Staphylococcus aureus,0
+Penicillium flavigenum,Staphylococcus epidermidis,0
+Penicillium flavigenum,Staphylococcus haemolyticus,-1
+Penicillium flavigenum,Staphylococcus saprophyticus,0
+Penicillium flavigenum,Staphylococcus sp. LCT-H4,0
+Penicillium flavigenum,Staphylococcus warneri,0
+Penicillium nalgiovense,Penicillium rubens,-1
+Penicillium nalgiovense,Rhodotorula sp. JG-1b,-1
+Penicillium nalgiovense,Staphylococcus aureus,-1
+Penicillium nalgiovense,Staphylococcus epidermidis,-1
+Penicillium nalgiovense,Staphylococcus haemolyticus,-1
+Penicillium nalgiovense,Staphylococcus saprophyticus,-1
+Penicillium nalgiovense,Staphylococcus sp. LCT-H4,-1
+Penicillium nalgiovense,Staphylococcus warneri,-1
+Penicillium rubens,Rhodotorula sp. JG-1b,-1
+Penicillium rubens,Staphylococcus aureus,-1
+Penicillium rubens,Staphylococcus epidermidis,-1
+Penicillium rubens,Staphylococcus haemolyticus,-1
+Penicillium rubens,Staphylococcus saprophyticus,-1
+Penicillium rubens,Staphylococcus sp. LCT-H4,-1
+Penicillium rubens,Staphylococcus warneri,-1
+Rhodotorula sp. JG-1b,Staphylococcus aureus,0
+Rhodotorula sp. JG-1b,Staphylococcus epidermidis,0
+Rhodotorula sp. JG-1b,Staphylococcus haemolyticus,0
+Rhodotorula sp. JG-1b,Staphylococcus saprophyticus,0
+Rhodotorula sp. JG-1b,Staphylococcus sp. LCT-H4,0
+Rhodotorula sp. JG-1b,Staphylococcus warneri,0
+Staphylococcus aureus,Staphylococcus epidermidis,-0.397
+Staphylococcus aureus,Staphylococcus haemolyticus,-0.333
+Staphylococcus aureus,Staphylococcus saprophyticus,0
+Staphylococcus aureus,Staphylococcus sp. LCT-H4,-0.373
+Staphylococcus aureus,Staphylococcus warneri,-0.769
+Staphylococcus epidermidis,Staphylococcus haemolyticus,-0.281
+Staphylococcus epidermidis,Staphylococcus saprophyticus,-0.163
+Staphylococcus epidermidis,Staphylococcus sp. LCT-H4,-0.257
+Staphylococcus epidermidis,Staphylococcus warneri,-0.712
+Staphylococcus haemolyticus,Staphylococcus saprophyticus,-0.345
+Staphylococcus haemolyticus,Staphylococcus sp. LCT-H4,-0.345
+Staphylococcus haemolyticus,Staphylococcus warneri,-0.345
+Staphylococcus saprophyticus,Staphylococcus sp. LCT-H4,1.301
+Staphylococcus saprophyticus,Staphylococcus warneri,0
+Staphylococcus sp. LCT-H4,Staphylococcus warneri,-0.99
+Enterococcus faecalis,Enterococcus avium,1.729
+Klebsiella pneumoniae F3-2P(2),Enterococcus avium,-0.489
+Paenibacillus polymyxa,Enterococcus avium,-0.326
+Penicillium chrysogenum,Enterococcus avium,-1
+Penicillium flavigenum,Enterococcus avium,-1
+Penicillium nalgiovense,Enterococcus avium,-1
+Penicillium rubens,Enterococcus avium,-1
+Rhodotorula sp. JG-1b,Enterococcus avium,0
+Staphylococcus aureus,Enterococcus avium,0
+Staphylococcus epidermidis,Enterococcus avium,0
+Staphylococcus haemolyticus,Enterococcus avium,0
+Staphylococcus saprophyticus,Enterococcus avium,-0.79
+Staphylococcus sp. LCT-H4,Enterococcus avium,0
+Staphylococcus warneri,Enterococcus avium,0
+Klebsiella pneumoniae F3-2P(2),Enterococcus faecalis,0
+Paenibacillus polymyxa,Enterococcus faecalis,-0.279
+Penicillium chrysogenum,Enterococcus faecalis,-1
+Penicillium flavigenum,Enterococcus faecalis,-1
+Penicillium nalgiovense,Enterococcus faecalis,-1
+Penicillium rubens,Enterococcus faecalis,-1
+Rhodotorula sp. JG-1b,Enterococcus faecalis,0
+Staphylococcus aureus,Enterococcus faecalis,0
+Staphylococcus epidermidis,Enterococcus faecalis,0
+Staphylococcus haemolyticus,Enterococcus faecalis,0
+Staphylococcus saprophyticus,Enterococcus faecalis,2.67
+Staphylococcus sp. LCT-H4,Enterococcus faecalis,0
+Staphylococcus warneri,Enterococcus faecalis,0
+Paenibacillus polymyxa,Klebsiella pneumoniae F3-2P(2),-0.646
+Penicillium chrysogenum,Klebsiella pneumoniae F3-2P(2),-1
+Penicillium flavigenum,Klebsiella pneumoniae F3-2P(2),-1
+Penicillium nalgiovense,Klebsiella pneumoniae F3-2P(2),-1
+Penicillium rubens,Klebsiella pneumoniae F3-2P(2),-1
+Rhodotorula sp. JG-1b,Klebsiella pneumoniae F3-2P(2),0
+Staphylococcus aureus,Klebsiella pneumoniae F3-2P(2),-0.674
+Staphylococcus epidermidis,Klebsiella pneumoniae F3-2P(2),-0.674
+Staphylococcus haemolyticus,Klebsiella pneumoniae F3-2P(2),0
+Staphylococcus saprophyticus,Klebsiella pneumoniae F3-2P(2),0.196
+Staphylococcus sp. LCT-H4,Klebsiella pneumoniae F3-2P(2),-0.674
+Staphylococcus warneri,Klebsiella pneumoniae F3-2P(2),-0.674
+Penicillium chrysogenum,Paenibacillus polymyxa,-1
+Penicillium flavigenum,Paenibacillus polymyxa,-1
+Penicillium nalgiovense,Paenibacillus polymyxa,-1
+Penicillium rubens,Paenibacillus polymyxa,-1
+Rhodotorula sp. JG-1b,Paenibacillus polymyxa,0
+Staphylococcus aureus,Paenibacillus polymyxa,-0.745
+Staphylococcus epidermidis,Paenibacillus polymyxa,-0.257
+Staphylococcus haemolyticus,Paenibacillus polymyxa,-0.484
+Staphylococcus saprophyticus,Paenibacillus polymyxa,-0.709
+Staphylococcus sp. LCT-H4,Paenibacillus polymyxa,-0.921
+Staphylococcus warneri,Paenibacillus polymyxa,-0.476
+Penicillium rubens,Penicillium chrysogenum,0
+Rhodotorula sp. JG-1b,Penicillium chrysogenum,0
+Penicillium flavigenum,Penicillium chrysogenum,-1
+Penicillium nalgiovense,Penicillium chrysogenum,-1
+Staphylococcus aureus,Penicillium chrysogenum,0
+Staphylococcus epidermidis,Penicillium chrysogenum,0
+Staphylococcus haemolyticus,Penicillium chrysogenum,0
+Staphylococcus saprophyticus,Penicillium chrysogenum,0
+Staphylococcus sp. LCT-H4,Penicillium chrysogenum,0
+Staphylococcus warneri,Penicillium chrysogenum,0
+Penicillium nalgiovense,Penicillium flavigenum,-1
+Penicillium rubens,Penicillium flavigenum,-1
+Rhodotorula sp. JG-1b,Penicillium flavigenum,0
+Staphylococcus aureus,Penicillium flavigenum,0
+Staphylococcus epidermidis,Penicillium flavigenum,0
+Staphylococcus haemolyticus,Penicillium flavigenum,0
+Staphylococcus saprophyticus,Penicillium flavigenum,0
+Staphylococcus sp. LCT-H4,Penicillium flavigenum,0
+Staphylococcus warneri,Penicillium flavigenum,-0.492
+Penicillium rubens,Penicillium nalgiovense,0
+Rhodotorula sp. JG-1b,Penicillium nalgiovense,0
+Staphylococcus aureus,Penicillium nalgiovense,0
+Staphylococcus epidermidis,Penicillium nalgiovense,0
+Staphylococcus haemolyticus,Penicillium nalgiovense,0
+Staphylococcus saprophyticus,Penicillium nalgiovense,0
+Staphylococcus sp. LCT-H4,Penicillium nalgiovense,0
+Staphylococcus warneri,Penicillium nalgiovense,0
+Rhodotorula sp. JG-1b,Penicillium rubens,0
+Staphylococcus aureus,Penicillium rubens,0
+Staphylococcus epidermidis,Penicillium rubens,0
+Staphylococcus haemolyticus,Penicillium rubens,0
+Staphylococcus saprophyticus,Penicillium rubens,0
+Staphylococcus sp. LCT-H4,Penicillium rubens,0
+Staphylococcus warneri,Penicillium rubens,0
+Staphylococcus aureus,Rhodotorula sp. JG-1b,-1
+Staphylococcus epidermidis,Rhodotorula sp. JG-1b,-1
+Staphylococcus haemolyticus,Rhodotorula sp. JG-1b,-1
+Staphylococcus saprophyticus,Rhodotorula sp. JG-1b,-1
+Staphylococcus sp. LCT-H4,Rhodotorula sp. JG-1b,-1
+Staphylococcus warneri,Rhodotorula sp. JG-1b,-1
+Staphylococcus epidermidis,Staphylococcus aureus,-0.603
+Staphylococcus haemolyticus,Staphylococcus aureus,-0.559
+Staphylococcus saprophyticus,Staphylococcus aureus,-0.816
+Staphylococcus sp. LCT-H4,Staphylococcus aureus,-0.627
+Staphylococcus warneri,Staphylococcus aureus,-0.231
+Staphylococcus haemolyticus,Staphylococcus epidermidis,-0.628
+Staphylococcus saprophyticus,Staphylococcus epidermidis,-0.403
+Staphylococcus sp. LCT-H4,Staphylococcus epidermidis,-0.743
+Staphylococcus warneri,Staphylococcus epidermidis,-0.288
+Staphylococcus saprophyticus,Staphylococcus haemolyticus,0.853
+Staphylococcus sp. LCT-H4,Staphylococcus haemolyticus,-0.495
+Staphylococcus warneri,Staphylococcus haemolyticus,-0.495
+Staphylococcus sp. LCT-H4,Staphylococcus saprophyticus,-0.627
+Staphylococcus warneri,Staphylococcus saprophyticus,-0.257
+Staphylococcus warneri,Staphylococcus sp. LCT-H4,0
