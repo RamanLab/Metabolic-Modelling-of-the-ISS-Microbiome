@@ -1,1 +1,0 @@
-ggplot(word, aes(label=Metabolite,size=Count_norm,colour=word$Count_norm))+geom_text_wordcloud(eccentricity = 1)+scale_size_area(max_size = 18)+facet_wrap(.~Site)+scale_fill_continuous()+theme_pubr()

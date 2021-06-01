@@ -1,8 +1,0 @@
-Escherichia coli
-Klebsiella pneumoniae
-Pantoea agglomerans
-Pantoea ananatis
-Pantoea conspicua
-Pantoea sp. 3.5.1
-Penicillium rubens
-Rhodotorula sp. JG-1b
