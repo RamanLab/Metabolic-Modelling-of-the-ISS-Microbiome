@@ -1,9 +1,0 @@
-Aspergillus niger
-Klebsiella pneumoniae
-Klebsiella quasipneumoniae IF1SW-B2
-Klebsiella quasipneumoniae IF1SW-P3
-Klebsiella quasipneumoniae IF1SW-P4
-Penicillium chrysogenum
-Penicillium rubens
-Rhodotorula sp. JG-1b
-Rhodotorula toruloides
