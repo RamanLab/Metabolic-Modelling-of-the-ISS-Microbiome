@@ -1,0 +1,14 @@
+Enterobacter cloacae
+Escherichia coli
+Klebsiella aerogenes strain IIIF7SW-P1
+Klebsiella pneumoniae
+Pantoea agglomerans
+Pantoea ananatis
+Pantoea conspicua
+Pantoea sp. strain A4
+Pantoea sp. strain IMH
+Pantoea sp. strain NGS-ED-1003
+Pantoea sp. strain OXWO6B1
+Pantoea sp. strain FF5
+Pantoea vagans
+Salmonella enterica

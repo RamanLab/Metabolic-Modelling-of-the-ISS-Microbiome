@@ -1,0 +1,16 @@
+Enterobacter asburiae
+Enterobacter cancerogenus
+Enterobacter cloacae
+Enterobacter roggenkampii
+Enterobacter hormaechei
+Enterobacter sp. strain NFIX59
+Escherichia coli
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Klebsiella quasipneumoniae strain IF2SW-B3
+Klebsiella quasipneumoniae strain IF2SW-P1
+Pantoea ananatis
+Penicillium rubens
+Rhodotorula sp. strain JG-1b
+Salmonella enterica
+Shigella sonnei
