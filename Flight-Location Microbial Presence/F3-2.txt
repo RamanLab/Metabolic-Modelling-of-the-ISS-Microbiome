@@ -1,15 +1,15 @@
-Staphylococcus saprophyticus
-Penicillium rubens
-Enterococcus faecalis
-Paenibacillus polymyxa
-Rhodotorula sp. strain JG-1b
 Enterococcus avium
-Penicillium chrysogenum
-Staphylococcus aureus
-Staphylococcus haemolyticus
-Penicillium nalgiovense
-Staphylococcus warneri
-Penicillium flavigenum
-Staphylococcus sp. strain LCT-H4
-Staphylococcus epidermidis
+Enterococcus faecalis
 Klebsiella pneumoniae strain F3-2P(2)
+Paenibacillus polymyxa
+Penicillium chrysogenum
+Penicillium flavigenum
+Penicillium nalgiovense
+Penicillium rubens
+Rhodotorula sp. strain JG-1b
+Staphylococcus aureus
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Staphylococcus saprophyticus
+Staphylococcus sp. strain LCT-H4
+Staphylococcus warneri
