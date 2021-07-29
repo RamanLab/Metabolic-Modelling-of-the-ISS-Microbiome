@@ -141,7 +141,7 @@ def get_individual_graph(model_dir, model_id_dict):
         num = 1
         graph, namemap = create_graph(temp_dir, num)
         graph = remove_artifacts(
-            graph, namemap, [
+            graph, namemap,model_compartments_dict, [
                 model_id_dict[model_file_name]])
 
         individual_graph_dict[model_id_dict[model_file_name]] = [graph]
@@ -224,7 +224,7 @@ def get_community_graph(model_dir, model_id_dict, list_dir):
         # create a bi-partite graph, use the site name as graph name
         graph, namemap = create_graph(temp_dir, len(model_list))
         graph = remove_artifacts(
-            graph, namemap, [
+            graph, namemap,model_compartments_dict, [
                 model_id_dict[model_file_name] for model_file_name in model_list])
         community_graph_dict[site_name] = [graph]
         community_namemap_dict[site_name] = [namemap]
@@ -405,7 +405,7 @@ def community_support_index_community(
                             model_in +
                             ".xml"))
             sub_graph, sub_namemap = create_graph(temp_dir, len(model_in_list))
-            sub_graph = remove_artifacts(sub_graph, sub_namemap, model_in_list)
+            sub_graph = remove_artifacts(sub_graph, sub_namemap,model_compartments_dict, model_in_list)
 
             remove_files(temp_dir)
 
@@ -506,7 +506,7 @@ def cluster(
                 temp_dir, len(cluster_list_in))
 
             graph_loo = remove_artifacts(
-                graph_loo, namemap_loo, model_id_list_loo)
+                graph_loo, namemap_loo,model_compartments_dict, model_id_list_loo)
             seed_loo = format_seed(
                 seed_dir,
                 site_name,
