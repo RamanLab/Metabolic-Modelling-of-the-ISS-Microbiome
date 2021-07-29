@@ -18,10 +18,10 @@ from argparse import ArgumentParser
 global artifacts
 # biomass, DNA replication, RNA transcription, Protein biosynthesis
 artifacts = [
-    "cpd17041_c0",
-    "cpd17042_c0",
-    "cpd17043_c0",
-    "cpd11416_c0"]
+    "cpd17041",
+    "cpd17042",
+    "cpd17043",
+    "cpd11416"]
 
 
 def format_seed(
@@ -65,20 +65,22 @@ def get_model_info(model_dir):
 
         for reaction in model.reactions:
             if(reaction.id.endswith("e0") and not(reaction.id.startswith("EX"))):
+                '''
                 flag=1
                 for metabolite in list(reaction.metabolites.keys()):
                     if(not(metabolite.id.endswith("e0"))):
                         flag=0
                         break
                 if(not(flag==0)):
-                    model_e0_dict[model.id].append(reaction.id)
+                '''
+                model_e0_dict[model.id].append(reaction.id)
 
     return model_id_dict, model_compartments_dict, model_e0_dict
 
 
 
 
-def remove_artifacts(graph, namemap, model_id_list=[]):
+def remove_artifacts(graph, namemap, model_compartments_dict, model_id_list=[]):
     global artifacts
     remove = set()
     for key, values in namemap.items():
@@ -87,9 +89,12 @@ def remove_artifacts(graph, namemap, model_id_list=[]):
 
     artifacts_set = set()
     for i in artifacts:
-        artifacts_set.add(i)
         for model_id in model_id_list:
-            artifacts_set.add(model_id + " " + i)
+            for j in model_compartments_dict[model_id]
+                if(graph.has_node(i+"_"+j)):
+                    artifacts_set.add(i+"_"+j)
+                if(graph.has_node(model_id+"_"+j)):
+                    artifacts_set.add(model_id + " " + i+"_"+j)
             
 
     for i in artifacts_set:
