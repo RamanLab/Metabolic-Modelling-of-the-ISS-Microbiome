@@ -64,16 +64,13 @@ def get_model_info(model_dir):
         model_e0_dict[model.id]=[]
 
         for reaction in model.reactions:
-            if(reaction.id.endswith("e0") and not(reaction.id.startswith("EX"))):
-                '''
-                flag=1
+            if(not(reaction.id.startswith("EX"))):
+                flag=0
                 for metabolite in list(reaction.metabolites.keys()):
-                    if(not(metabolite.id.endswith("e0"))):
-                        flag=0
-                        break
+                    if(metabolite.id.endswith("e0")):
+                        flag=flag+1
                 if(not(flag==0)):
-                '''
-                model_e0_dict[model.id].append(reaction.id)
+                    model_e0_dict[model.id].append(reaction.id)
 
     return model_id_dict, model_compartments_dict, model_e0_dict
 
@@ -90,7 +87,7 @@ def remove_artifacts(graph, namemap, model_compartments_dict, model_id_list=[]):
     artifacts_set = set()
     for i in artifacts:
         for model_id in model_id_list:
-            for j in model_compartments_dict[model_id]
+            for j in model_compartments_dict[model_id]:
                 if(graph.has_node(i+"_"+j)):
                     artifacts_set.add(i+"_"+j)
                 if(graph.has_node(model_id+"_"+j)):
@@ -126,7 +123,7 @@ def get_stuck(graph, namemap, status_dict, model_id_list,model_e0_dict):
     return stuck
 
 
-def get_individual_graph(model_dir, model_id_dict):
+def get_individual_graph(model_dir, model_id_dict,model_compartments_dict):
     print("----------Creating individual graphs----------")
     individual_graph_dict = {}
     individual_namemap_dict = {}
@@ -152,7 +149,7 @@ def get_individual_graph(model_dir, model_id_dict):
     return individual_graph_dict, individual_namemap_dict
 
 
-def get_pair_graph(model_dir, model_id_dict, list_dir):
+def get_pair_graph(model_dir, model_id_dict, model_compartments_dict,list_dir):
     print("----------Creating pair graphs----------")
     pair_graph_dict = {}
     pair_namemap_dict = {}
@@ -190,7 +187,7 @@ def get_pair_graph(model_dir, model_id_dict, list_dir):
                 num = 2
                 graph, namemap = create_graph(temp_dir, num)
                 graph = remove_artifacts(
-                    graph, namemap, [
+                    graph, namemap,model_compartments_dict, [
                         model_id_dict[comb[0]],model_id_dict[comb[1]]])
                 pair_graph_dict[pair] = [graph]
                 pair_namemap_dict[pair] = [namemap]
@@ -199,7 +196,7 @@ def get_pair_graph(model_dir, model_id_dict, list_dir):
     return pair_graph_dict, pair_namemap_dict
 
 
-def get_community_graph(model_dir, model_id_dict, list_dir):
+def get_community_graph(model_dir, model_id_dict, model_compartments_dict,list_dir):
     print("----------Creating community graphs----------")
     community_graph_dict={}
     community_namemap_dict={}
@@ -548,9 +545,9 @@ def maincall(root_dir, model_dir, seed_dir, list_dir, msi, csi):
     model_id_dict, model_compartments_dict,model_e0_dict = get_model_info(model_dir)
     if(msi and not(csi)):
         individual_graph_dict, individual_namemap_dict = get_individual_graph(
-            model_dir, model_id_dict)
+            model_dir, model_id_dict, model_compartments_dict)
         pair_graph_dict, pair_namemap_dict = get_pair_graph(
-            model_dir, model_id_dict, list_dir)
+            model_dir, model_id_dict, model_compartments_dict, list_dir)
         msi(root_dir,
             list_dir,
             seed_dir,
@@ -561,7 +558,7 @@ def maincall(root_dir, model_dir, seed_dir, list_dir, msi, csi):
 
     if(csi and not(msi)):
         community_graph_dict, community_namemap_dict = get_community_graph(
-            model_dir, model_id_dict, list_dir)
+            model_dir, model_id_dict,model_compartments_dict, list_dir)
         community_support_index_individual(
             root_dir,
             list_dir,
@@ -596,9 +593,9 @@ def maincall(root_dir, model_dir, seed_dir, list_dir, msi, csi):
 
     if(msi and csi):
         individual_graph_dict, individual_namemap_dict = get_individual_graph(
-            model_dir, model_id_dict)
+            model_dir, model_id_dict,model_compartments_dict)
         pair_graph_dict, pair_namemap_dict = get_pair_graph(
-            model_dir, model_id_dict, list_dir)
+            model_dir, model_id_dict, model_compartments_dict, list_dir)
         metabolic_support_index(root_dir,
             list_dir,
             seed_dir,
@@ -610,7 +607,7 @@ def maincall(root_dir, model_dir, seed_dir, list_dir, msi, csi):
             pair_graph_dict,
             pair_namemap_dict)
         community_graph_dict, community_namemap_dict = get_community_graph(
-            model_dir, model_id_dict, list_dir)
+            model_dir, model_id_dict,model_compartments_dict, list_dir)
         community_support_index_individual(
             root_dir,
             list_dir,
