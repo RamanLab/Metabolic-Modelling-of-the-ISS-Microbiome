@@ -1,6 +1,9 @@
 # Metabolic model reconstruction process
-Genome-scale Metabolic Models (GEMs) created with the following metabolic modelling apps in KBase:
-Bacterial models:
-All genomes were directly imported from the NCBI RefSeq database.
-Annotate Microbial Genome with RAST - v1.073 (RASTSDK v1.8.1) 
-Build Metabolic Model (fba_tools v2.0.0). All bacterial models were gap-filled with RefGlucoseMinimal, setting the max uptake of Glucose alone to 10 mmol/gDWh
+Genome-scale Metabolic Models (GSMMs) created with the following metabolic modelling apps in KBase:
+The genome sequences were, either via direct import from the NCBI RefSeq database or via upload in the case of GenBank genomes, provided as input to KBase [^1] to reconstruct automated genome-scale metabolic models (GSMMs). These GSMMs capture the metabolic network of these microorganisms, to the extent known across published literature and reaction databases [^2]. The bacterial genomes were first annotated with RASTtk toolkit v1.073 [3–5]. The metabolic models were then reconstructed using the Build Metabolic Model v2.0.0 app, and a Gram positive/Gram negative template was appropriately selected for reconstruction. The gap-filling was done with a minimal medium readily available in the KBase public media database, RefGlucoseMinimal, and increasing the maximum uptake of Glucose to 10 mmol/gDW-h. For the reconstruction of fungal models, the Build Fungal Model v1.0.0 was used and templates were selected from the available fourteen templates, and gap-filling was also carried out with the default settings.
+## References
+-Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S, et al. KBase: The United States department of energy systems biology knowledgebase. Nature Biotechnology. 2018;36:566–9. doi:10.1038/nbt.4163.
+-Thiele I, Palsson B. A protocol for generating a high-quality genome-scale metabolic reconstruction. Nature Protocols. 2010;5:93–121. doi:10.1038/nprot.2009.203.
+-Brettin T, Davis JJ, Disz T, Edwards RA, Gerdes S, Olsen GJ, et al. RASTtk: A modular and extensible implementation of the RAST algorithm for building custom annotation pipelines and annotating batches of genomes. Scientific Reports. 2015;5:1–6. doi:10.1038/srep08365.
+-Overbeek R, Olson R, Pusch GD, Olsen GJ, Davis JJ, Disz T, et al. The SEED and the Rapid Annotation of microbial genomes using Subsystems Technology (RAST). Nucleic Acids Research. 2014;42:D206–14. doi:10.1093/nar/gkt1226.
+-Aziz RK, Bartels D, Best A, DeJongh M, Disz T, Edwards RA, et al. The RAST Server: Rapid annotations using subsystems technology. BMC Genomics. 2008;9:75. doi:10.1186/1471-2164-9-75.
